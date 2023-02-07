@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "526835115468",
+    "project_id": "mychatapp-7bc31",
+    "storage_bucket": "mychatapp-7bc31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526835115468:android:7a08d7ea3d348ffc7ea969",
+        "android_client_info": {
+          "package_name": "com.virus.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526835115468-blgvahi1l2ljh2u77ptj4i6gtvlmt14t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.virus.mychat",
+            "certificate_hash": "5dbe5a16eff2bc7aad1677bf9761cedced869115"
+          }
+        },
+        {
+          "client_id": "526835115468-j7lg799ti7ise0vcgn4omlbl5ckmb8fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7FmkULwKGOkYpBKLRtYWQvrI91t7oXkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526835115468-j7lg799ti7ise0vcgn4omlbl5ckmb8fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
